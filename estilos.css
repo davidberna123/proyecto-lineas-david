@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(27, 27, 27) ;
+    color: black ;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+    font-family: chiller;
+}
+button{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#BORRAR{
+    background-color: red;
+}
+#supiz{
+    background-color:rgb(255, 115, 0);
+    
+}
+#supde{
+    background-color: pink;
+}
+#izinf{
+    background-color: gray;
+}
+#deinf{
+    background-color: green;
+}
+#lineaspedidas{
+    font-size: 20px;
+}
+#lineaspedidas::placeholder{
+    font-size: 14px;
+    color: black;
+}
+#p1{
+    font-family: fantasy;
+    background-color: red;
+}
+#c1{
+    font-family: fantasy;
+    background-color:red;
+}
+#c2{
+    color: red;
+}
